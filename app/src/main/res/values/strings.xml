@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScrRecord</string>
+    <string name="label_permissions">Permission needed.</string>
+</resources>
